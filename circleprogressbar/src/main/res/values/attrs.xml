@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        radius 圆环的半径
+        maxProgress 最大进度值
+        initProgress 初始进度值
+        centreColor 圆形中心的填充色
+        circleColor 圆环的颜色
+        progressColor 圆环中进度的颜色
+        textColor 文字进度的颜色
+        textSize 文字进度的大小
+        startAngle 进度起始的角度
+        textProgressEnable 是否显示文字进度
+    -->
+
+    <declare-styleable name="CircleProgressBar">
+        <attr name="circleWidth" format="dimension" />
+        <attr name="maxProgress" format="integer" />
+        <attr name="initProgress" format="integer" />
+        <attr name="centreColor" format="color" />
+        <attr name="circleColor" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="startAngle" format="integer" />
+        <attr name="textProgressEnable" format="boolean" />
+    </declare-styleable>
+
+</resources>
