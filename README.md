@@ -62,7 +62,7 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
         app:progressColor="@color/colorAccent"/>
 ```
 
-##### Or add it to you java file
+##### Or add it to your java file
 ```
 CircleProgressBar circleProgressBar = new CircleProgressBar(this);
 circleProgressBar.setmCircleWidth(24);
