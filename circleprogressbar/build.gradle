@@ -2,8 +2,8 @@ apply plugin: 'com.android.library'
 
 ext {
     PUBLISH_GROUP_ID = 'io.github.marktony'
-    PUBLISH_ARTIFACT_ID = 'circle-progress-dialog'
-    PUBLISH_VERSION = '1.0'
+    PUBLISH_ARTIFACT_ID = 'circle-progress-bar'
+    PUBLISH_VERSION = '1.1'
 }
 
 android {

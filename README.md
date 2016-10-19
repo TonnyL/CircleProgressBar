@@ -13,7 +13,7 @@ allprojects {
 ```
 2. Add the dependency
 ```
-compile 'io.github.marktony:circle-progress-dialog:1.0'
+compile 'io.github.marktony:circle-progress-bar:1.1'
 ```
 
 
@@ -21,8 +21,8 @@ compile 'io.github.marktony:circle-progress-dialog:1.0'
 ```
 <dependency>
   <groupId>io.github.marktony</groupId>
-  <artifactId>circle-progress-dialog</artifactId>
-  <version>1.0</version>
+  <artifactId>circle-progress-bar</artifactId>
+  <version>1.1</version>
   <type>pom</type>
 </dependency>
 ```
