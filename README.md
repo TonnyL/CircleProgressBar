@@ -76,8 +76,20 @@ circleProgressBar.setmStartAngle(0);
 circleProgressBar.setmTextProgressEnable(true);
 ```
 
-#### screenshot
+#### Screenshot
 ![screenshot](https://github.com/marktony/CircleProgressBar/blob/master/screenshots/screenshot1.png)
+
+## Other repository of mine
++ [Paper Plane](https://github.com/marktony/ZhiHuDaily) -- MVP Architecture, Including the Content of Zhihu Daily, Guokr Handpick and Douban Handpick
++ [Zhihu Zhuanlan](https://github.com/marktony/zhuanlan) -- Analysis of Zhihu Zhuanlan's API + Unofficial Android App of Zhihu Zhuanlan
++ [Fanfou Handpick](https://github.com/marktony/FanfouHandpick) -- A Fanfou Handpick Client Developed by Kotlin
++ [Translator](https://github.com/marktony/Translator) -- A translation App Based on Android
++ [Reader](https://github.com/marktony/Reader) -- MVP + Volley + Gson, the content comes from Qiubai, Jiandan and Neihanduanzi
+
+## Support Me
+If you think, I deserve to get paid for my work, you can leave me a little money here by scanning the QR code through Wechat.
+
+![Wechat_QRCode](https://github.com/marktony/ZhiHuDaily/blob/master/screenshots/wechat_qrcode.png)
 
 #### License
 ```
